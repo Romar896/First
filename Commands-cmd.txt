@@ -1,0 +1,19 @@
+git --version - версия гита
+git config --global user.name/email - установление имени и email пользователя(глобально)
+git config --list - информация о пользователе
+pwd - информация о местонахождении(среди папок)
+cd ~/Desktop -переход на уровень выше(рабочий стол)
+mkdir - создание папки
+echo "print ('HI')"> 1.py -создание файла
+ls - просмотр файлов в папке
+cat - просмотр файла
+git push -u origin main - загружает репозиторий
+ git branch
+ git status
+ ls -Force
+ git add
+ git commit -m
+ git rm --cached
+ git rm
+ git remote add origin https://github.com/Romar896/First.git
+ git branch -M main
